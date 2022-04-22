@@ -31,6 +31,7 @@
 .title a {
   color: #0070f3;
   text-decoration: none;
+
 }
 
 .title a:hover,
@@ -42,16 +43,18 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 3rem;
+  white-space: pre-wrap;
 }
 
 .title,
 .description {
   text-align: center;
+  white-space: pre-wrap;
 }
 
 .description {
-  margin: 4rem 0;
+  margin: 2rem 0;
   line-height: 1.5;
   font-size: 1.5rem;
 }
@@ -106,6 +109,17 @@
 .logo {
   height: 1em;
   margin-left: 0.5rem;
+}
+
+.button {
+  padding: 15px;
+  background: #0070f3;
+  color: #fff;
+  font-weight: bold;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  font-size: 1rem;
 }
 
 @media (max-width: 600px) {
