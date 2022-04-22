@@ -2,6 +2,10 @@
 
 Example Next.js application integrated with firebase messaging.
 
+## Working Demo
+
+[Demo](https://nextjs-firebase-messaging.vercel.app/)
+
 ## Getting Started
 
 First create an `.env` file in the root directory. It should include following variables.
