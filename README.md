@@ -1,6 +1,6 @@
 # nextjs-firebase-messaging
 
-Example Next.js application integrated with firebase messaging.
+Example Demo Next.js typescript application implement with firebase cloud messaging to send web push notifications.
 
 ## Working Demo
 
